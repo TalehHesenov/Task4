@@ -17,7 +17,7 @@ body{
 }
 .login_form{
 
-    width: 28%;
+    width: 30%;
     height: 350px;
     background-color: white;
     display: flex;
@@ -85,7 +85,7 @@ body{
 }
 .reg_form{
 
-    width: 32%;
+    width: 35%;
     height: 800px;
     background-color: white;
     display: flex;
